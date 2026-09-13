@@ -43,7 +43,7 @@ Python-based analysis of simulated authentication logs to identify suspicious lo
 
 Group project for St. John's University Public Affairs focused on identity verification, access control, authentication testing, and data integrity using Oracle APEX.
 
-[View Project →]https://github.com/AleishaM/CyberSecurityProtfolio/tree/main/projects/student-verification-system
+[View Project →](https://github.com/AleishaM/CyberSecurityProtfolio/tree/main/projects/student-verification-system)
 
 ### Education
 
